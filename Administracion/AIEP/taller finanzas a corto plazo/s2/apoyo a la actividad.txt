@@ -1,0 +1,71 @@
+Apoyo ejercicio semana 2
+Estimados
+
+Buen día les dejo este paso a paso con algunas consideraciones importante para el calculo del ejercicio de esta semana.
+
+Tomamos los datos proporcionados y los ordenamos:
+
+
+
+Varianza 
+
+120000
+
+Costos Fijos 
+
+1000
+
+Interés (mensual) 
+
+0,40%
+
+Interés (Anual 360 días) 
+
+4,80%
+
+Saldo Mínimo 
+
+15000
+
+
+
+Comenzamos a aplicar la formula:
+
+
+
+ 
+
+Captura.JPG
+
+
+
+
+Para eso tomamos en un Excel:
+
+ 
+
+= 3*1000*120000 = 360000000
+
+= 4*(4,8%)/360= 0,000533333
+
+= 360000000/0,000533333= 675000000000
+
+ 
+
+Y por último aplicamos la raíz cubica.
+
+=potencia(675000000000;1/3) = 8772
+
+Z= $8.772
+
+
+
+Entonces nuestra base para el resto de los calculo sería que Z corresponde a: $8.772 
+
+Espero les sirva!
+
+
+
+Saludos cordiales,
+
+Carolina Ponce
